@@ -1,4 +1,4 @@
-### These are the datasets used in the dissertation completed by 39523 for the MSc in Comparative Politics at LSE. The data was extracted from the Comparative Manifesto Project and modified to include the topic area and positionality variable discussed within the dissertation 
+### These are the datasets used in the dissertation completed by 39523 for the MSc in Comparative Politics at LSE. The data was extracted from the Comparative Manifesto Project and modified to include the topic area and positionality variable discussed within the dissertation. 
 
 ## 2007 Manifesto Data 
 |   Area   |   Policy   |   M Code  |   LR  |
